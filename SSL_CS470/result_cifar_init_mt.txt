@@ -1,0 +1,1118 @@
+Boundary:  0
+Label:  4000
+Boundary:  0
+Unlabel:  41000
+Boundary:  0
+0.01
+0.9
+/usr/local/lib/python3.5/dist-packages/torch/nn/_reduction.py:46: UserWarning: size_average and reduce args will be deprecated, please use reduction='sum' instead.
+  warnings.warn(warning.format(ret))
+[Epoch : 1,     1] train loss: 2.3093
+[Epoch : 1,    81] train loss: 1.9865
+[Epoch : 1,   161] train loss: 1.5810
+Accuracy 73.55 %
+Accuracy 67.33 %
+state saving...
+Best Acc 73.55 %
+[Epoch : 2,     1] train loss: 1.5485
+[Epoch : 2,    81] train loss: 1.2282
+[Epoch : 2,   161] train loss: 1.0370
+Accuracy 79.15 %
+Accuracy 76.70 %
+state saving...
+Best Acc 79.15 %
+[Epoch : 3,     1] train loss: 1.1507
+[Epoch : 3,    81] train loss: 1.0413
+[Epoch : 3,   161] train loss: 1.0189
+Accuracy 80.79 %
+Accuracy 80.32 %
+state saving...
+Best Acc 80.79 %
+[Epoch : 4,     1] train loss: 1.1933
+[Epoch : 4,    81] train loss: 1.0726
+[Epoch : 4,   161] train loss: 1.0232
+Accuracy 81.75 %
+Accuracy 81.92 %
+state saving...
+Best Acc 81.92 %
+[Epoch : 5,     1] train loss: 1.1840
+[Epoch : 5,    81] train loss: 1.0880
+[Epoch : 5,   161] train loss: 1.0813
+Accuracy 81.64 %
+Accuracy 82.53 %
+state saving...
+Best Acc 82.53 %
+[Epoch : 6,     1] train loss: 1.1169
+[Epoch : 6,    81] train loss: 1.1287
+[Epoch : 6,   161] train loss: 1.0888
+Accuracy 82.20 %
+Accuracy 83.11 %
+state saving...
+Best Acc 83.11 %
+[Epoch : 7,     1] train loss: 1.1346
+[Epoch : 7,    81] train loss: 1.1054
+[Epoch : 7,   161] train loss: 1.0624
+Accuracy 82.29 %
+Accuracy 83.38 %
+state saving...
+Best Acc 83.38 %
+[Epoch : 8,     1] train loss: 1.0716
+[Epoch : 8,    81] train loss: 1.0797
+[Epoch : 8,   161] train loss: 1.0476
+Accuracy 82.56 %
+Accuracy 83.64 %
+state saving...
+Best Acc 83.64 %
+[Epoch : 9,     1] train loss: 0.9955
+[Epoch : 9,    81] train loss: 1.0037
+[Epoch : 9,   161] train loss: 1.0707
+Accuracy 81.99 %
+Accuracy 84.12 %
+state saving...
+Best Acc 84.12 %
+[Epoch : 10,     1] train loss: 0.9380
+[Epoch : 10,    81] train loss: 0.9710
+[Epoch : 10,   161] train loss: 0.9972
+Accuracy 82.52 %
+Accuracy 84.33 %
+state saving...
+Best Acc 84.33 %
+[Epoch : 11,     1] train loss: 1.0235
+[Epoch : 11,    81] train loss: 1.0004
+[Epoch : 11,   161] train loss: 0.9124
+Accuracy 81.93 %
+Accuracy 84.38 %
+state saving...
+Best Acc 84.38 %
+[Epoch : 12,     1] train loss: 0.9867
+[Epoch : 12,    81] train loss: 0.9174
+[Epoch : 12,   161] train loss: 0.9800
+Accuracy 82.33 %
+Accuracy 84.76 %
+state saving...
+Best Acc 84.76 %
+[Epoch : 13,     1] train loss: 0.9590
+[Epoch : 13,    81] train loss: 0.9939
+[Epoch : 13,   161] train loss: 0.9112
+Accuracy 82.68 %
+Accuracy 84.78 %
+state saving...
+Best Acc 84.78 %
+[Epoch : 14,     1] train loss: 0.8851
+[Epoch : 14,    81] train loss: 0.9898
+[Epoch : 14,   161] train loss: 0.8611
+Accuracy 82.28 %
+Accuracy 84.82 %
+state saving...
+Best Acc 84.82 %
+[Epoch : 15,     1] train loss: 0.8797
+[Epoch : 15,    81] train loss: 0.8780
+[Epoch : 15,   161] train loss: 0.8408
+Accuracy 81.76 %
+Accuracy 84.70 %
+Best Acc 84.82 %
+[Epoch : 16,     1] train loss: 0.8860
+[Epoch : 16,    81] train loss: 0.8836
+[Epoch : 16,   161] train loss: 0.9313
+Accuracy 81.89 %
+Accuracy 84.91 %
+state saving...
+Best Acc 84.91 %
+[Epoch : 17,     1] train loss: 0.9270
+[Epoch : 17,    81] train loss: 0.8137
+[Epoch : 17,   161] train loss: 0.7691
+Accuracy 82.48 %
+Accuracy 85.00 %
+state saving...
+Best Acc 85.00 %
+[Epoch : 18,     1] train loss: 0.8557
+[Epoch : 18,    81] train loss: 0.9544
+[Epoch : 18,   161] train loss: 0.8622
+Accuracy 81.49 %
+Accuracy 85.05 %
+state saving...
+Best Acc 85.05 %
+[Epoch : 19,     1] train loss: 0.8671
+[Epoch : 19,    81] train loss: 0.9387
+[Epoch : 19,   161] train loss: 0.9636
+Accuracy 81.43 %
+Accuracy 85.26 %
+state saving...
+Best Acc 85.26 %
+[Epoch : 20,     1] train loss: 0.9735
+[Epoch : 20,    81] train loss: 0.8807
+[Epoch : 20,   161] train loss: 0.7679
+Accuracy 82.62 %
+Accuracy 85.41 %
+state saving...
+Best Acc 85.41 %
+[Epoch : 21,     1] train loss: 0.8420
+[Epoch : 21,    81] train loss: 0.8584
+[Epoch : 21,   161] train loss: 0.7591
+Accuracy 81.34 %
+Accuracy 85.42 %
+state saving...
+Best Acc 85.42 %
+[Epoch : 22,     1] train loss: 0.8024
+[Epoch : 22,    81] train loss: 0.8358
+[Epoch : 22,   161] train loss: 0.8571
+Accuracy 82.38 %
+Accuracy 85.60 %
+state saving...
+Best Acc 85.60 %
+[Epoch : 23,     1] train loss: 0.8175
+[Epoch : 23,    81] train loss: 0.7559
+[Epoch : 23,   161] train loss: 0.7676
+Accuracy 81.31 %
+Accuracy 85.62 %
+state saving...
+Best Acc 85.62 %
+[Epoch : 24,     1] train loss: 0.8526
+[Epoch : 24,    81] train loss: 0.7163
+[Epoch : 24,   161] train loss: 0.7864
+Accuracy 81.13 %
+Accuracy 85.60 %
+Best Acc 85.62 %
+[Epoch : 25,     1] train loss: 0.9208
+[Epoch : 25,    81] train loss: 0.8605
+[Epoch : 25,   161] train loss: 0.8800
+Accuracy 82.20 %
+Accuracy 85.50 %
+Best Acc 85.62 %
+[Epoch : 26,     1] train loss: 0.8124
+[Epoch : 26,    81] train loss: 0.7173
+[Epoch : 26,   161] train loss: 0.9284
+Accuracy 80.96 %
+Accuracy 85.68 %
+state saving...
+Best Acc 85.68 %
+[Epoch : 27,     1] train loss: 0.8457
+[Epoch : 27,    81] train loss: 0.7225
+[Epoch : 27,   161] train loss: 0.9135
+Accuracy 81.90 %
+Accuracy 85.41 %
+Best Acc 85.68 %
+[Epoch : 28,     1] train loss: 0.8649
+[Epoch : 28,    81] train loss: 0.8062
+[Epoch : 28,   161] train loss: 0.7887
+Accuracy 81.45 %
+Accuracy 85.66 %
+Best Acc 85.68 %
+[Epoch : 29,     1] train loss: 0.6471
+[Epoch : 29,    81] train loss: 0.6633
+[Epoch : 29,   161] train loss: 0.8048
+Accuracy 81.56 %
+Accuracy 85.77 %
+state saving...
+Best Acc 85.77 %
+[Epoch : 30,     1] train loss: 0.8050
+[Epoch : 30,    81] train loss: 0.7148
+[Epoch : 30,   161] train loss: 0.8370
+Accuracy 80.82 %
+Accuracy 85.98 %
+state saving...
+Best Acc 85.98 %
+[Epoch : 31,     1] train loss: 0.8406
+[Epoch : 31,    81] train loss: 0.7568
+[Epoch : 31,   161] train loss: 0.6521
+Accuracy 81.54 %
+Accuracy 86.06 %
+state saving...
+Best Acc 86.06 %
+[Epoch : 32,     1] train loss: 0.9663
+[Epoch : 32,    81] train loss: 0.7007
+[Epoch : 32,   161] train loss: 0.6569
+Accuracy 81.57 %
+Accuracy 86.00 %
+Best Acc 86.06 %
+[Epoch : 33,     1] train loss: 0.6617
+[Epoch : 33,    81] train loss: 0.8021
+[Epoch : 33,   161] train loss: 0.8262
+Accuracy 81.90 %
+Accuracy 86.06 %
+Best Acc 86.06 %
+[Epoch : 34,     1] train loss: 0.7569
+[Epoch : 34,    81] train loss: 0.8208
+[Epoch : 34,   161] train loss: 0.8638
+Accuracy 81.86 %
+Accuracy 86.12 %
+state saving...
+Best Acc 86.12 %
+[Epoch : 35,     1] train loss: 0.7111
+[Epoch : 35,    81] train loss: 0.8333
+[Epoch : 35,   161] train loss: 1.0237
+Accuracy 82.93 %
+Accuracy 86.13 %
+state saving...
+Best Acc 86.13 %
+[Epoch : 36,     1] train loss: 0.8964
+[Epoch : 36,    81] train loss: 0.6577
+[Epoch : 36,   161] train loss: 0.8575
+Accuracy 82.47 %
+Accuracy 86.09 %
+Best Acc 86.13 %
+[Epoch : 37,     1] train loss: 0.7510
+[Epoch : 37,    81] train loss: 0.8645
+[Epoch : 37,   161] train loss: 0.8226
+Accuracy 81.73 %
+Accuracy 86.13 %
+Best Acc 86.13 %
+[Epoch : 38,     1] train loss: 0.9137
+[Epoch : 38,    81] train loss: 0.5947
+[Epoch : 38,   161] train loss: 0.6888
+Accuracy 81.31 %
+Accuracy 86.08 %
+Best Acc 86.13 %
+[Epoch : 39,     1] train loss: 0.7167
+[Epoch : 39,    81] train loss: 0.9069
+[Epoch : 39,   161] train loss: 0.7024
+Accuracy 81.81 %
+Accuracy 85.99 %
+Best Acc 86.13 %
+[Epoch : 40,     1] train loss: 0.7436
+[Epoch : 40,    81] train loss: 0.8413
+[Epoch : 40,   161] train loss: 0.7922
+Accuracy 82.73 %
+Accuracy 86.04 %
+Best Acc 86.13 %
+[Epoch : 41,     1] train loss: 0.8244
+[Epoch : 41,    81] train loss: 0.5640
+[Epoch : 41,   161] train loss: 0.8475
+Accuracy 82.36 %
+Accuracy 85.95 %
+Best Acc 86.13 %
+[Epoch : 42,     1] train loss: 0.7159
+[Epoch : 42,    81] train loss: 0.6895
+[Epoch : 42,   161] train loss: 0.6516
+Accuracy 82.55 %
+Accuracy 85.94 %
+Best Acc 86.13 %
+[Epoch : 43,     1] train loss: 0.7475
+[Epoch : 43,    81] train loss: 0.7361
+[Epoch : 43,   161] train loss: 0.8720
+Accuracy 81.65 %
+Accuracy 86.28 %
+state saving...
+Best Acc 86.28 %
+[Epoch : 44,     1] train loss: 0.7514
+[Epoch : 44,    81] train loss: 0.6488
+[Epoch : 44,   161] train loss: 0.7417
+Accuracy 83.04 %
+Accuracy 86.03 %
+Best Acc 86.28 %
+[Epoch : 45,     1] train loss: 0.8926
+[Epoch : 45,    81] train loss: 0.6500
+[Epoch : 45,   161] train loss: 0.5910
+Accuracy 83.17 %
+Accuracy 86.06 %
+Best Acc 86.28 %
+[Epoch : 46,     1] train loss: 0.6096
+[Epoch : 46,    81] train loss: 0.6335
+[Epoch : 46,   161] train loss: 0.6916
+Accuracy 82.94 %
+Accuracy 85.70 %
+Best Acc 86.28 %
+[Epoch : 47,     1] train loss: 0.7153
+[Epoch : 47,    81] train loss: 0.7866
+[Epoch : 47,   161] train loss: 0.7225
+Accuracy 81.41 %
+Accuracy 85.93 %
+Best Acc 86.28 %
+[Epoch : 48,     1] train loss: 0.7293
+[Epoch : 48,    81] train loss: 0.9036
+[Epoch : 48,   161] train loss: 0.6069
+Accuracy 81.66 %
+Accuracy 85.83 %
+Best Acc 86.28 %
+[Epoch : 49,     1] train loss: 0.7552
+[Epoch : 49,    81] train loss: 0.7267
+[Epoch : 49,   161] train loss: 0.8511
+Accuracy 82.05 %
+Accuracy 85.76 %
+Best Acc 86.28 %
+[Epoch : 50,     1] train loss: 0.7603
+[Epoch : 50,    81] train loss: 0.5919
+[Epoch : 50,   161] train loss: 0.8035
+Accuracy 82.24 %
+Accuracy 85.94 %
+Best Acc 86.28 %
+[Epoch : 51,     1] train loss: 0.6254
+[Epoch : 51,    81] train loss: 0.6920
+[Epoch : 51,   161] train loss: 0.8062
+Accuracy 82.66 %
+Accuracy 86.02 %
+Best Acc 86.28 %
+[Epoch : 52,     1] train loss: 0.6545
+[Epoch : 52,    81] train loss: 0.9767
+[Epoch : 52,   161] train loss: 0.8360
+Accuracy 82.70 %
+Accuracy 85.86 %
+Best Acc 86.28 %
+[Epoch : 53,     1] train loss: 0.5402
+[Epoch : 53,    81] train loss: 0.6434
+[Epoch : 53,   161] train loss: 0.7094
+Accuracy 83.26 %
+Accuracy 86.00 %
+Best Acc 86.28 %
+[Epoch : 54,     1] train loss: 0.8312
+[Epoch : 54,    81] train loss: 0.7809
+[Epoch : 54,   161] train loss: 0.5296
+Accuracy 82.45 %
+Accuracy 86.04 %
+Best Acc 86.28 %
+[Epoch : 55,     1] train loss: 0.5704
+[Epoch : 55,    81] train loss: 0.6012
+[Epoch : 55,   161] train loss: 0.7502
+Accuracy 82.99 %
+Accuracy 85.97 %
+Best Acc 86.28 %
+[Epoch : 56,     1] train loss: 0.6777
+[Epoch : 56,    81] train loss: 0.5438
+[Epoch : 56,   161] train loss: 0.8069
+Accuracy 82.55 %
+Accuracy 86.28 %
+Best Acc 86.28 %
+[Epoch : 57,     1] train loss: 0.7638
+[Epoch : 57,    81] train loss: 0.6493
+[Epoch : 57,   161] train loss: 0.8576
+Accuracy 81.59 %
+Accuracy 86.04 %
+Best Acc 86.28 %
+[Epoch : 58,     1] train loss: 0.7614
+[Epoch : 58,    81] train loss: 0.7286
+[Epoch : 58,   161] train loss: 0.6642
+Accuracy 81.42 %
+Accuracy 86.06 %
+Best Acc 86.28 %
+[Epoch : 59,     1] train loss: 0.7245
+[Epoch : 59,    81] train loss: 0.6107
+[Epoch : 59,   161] train loss: 0.7113
+Accuracy 83.00 %
+Accuracy 86.22 %
+Best Acc 86.28 %
+[Epoch : 60,     1] train loss: 0.6438
+[Epoch : 60,    81] train loss: 0.6781
+[Epoch : 60,   161] train loss: 0.7093
+Accuracy 82.82 %
+Accuracy 86.03 %
+Best Acc 86.28 %
+[Epoch : 61,     1] train loss: 0.6838
+[Epoch : 61,    81] train loss: 0.6688
+[Epoch : 61,   161] train loss: 1.1687
+Accuracy 82.02 %
+Accuracy 85.96 %
+Best Acc 86.28 %
+[Epoch : 62,     1] train loss: 0.5108
+[Epoch : 62,    81] train loss: 0.5888
+[Epoch : 62,   161] train loss: 0.6809
+Accuracy 82.20 %
+Accuracy 85.97 %
+Best Acc 86.28 %
+[Epoch : 63,     1] train loss: 0.6807
+[Epoch : 63,    81] train loss: 0.5072
+[Epoch : 63,   161] train loss: 0.6625
+Accuracy 82.49 %
+Accuracy 85.93 %
+Best Acc 86.28 %
+[Epoch : 64,     1] train loss: 0.5240
+[Epoch : 64,    81] train loss: 0.6635
+[Epoch : 64,   161] train loss: 0.8176
+Accuracy 82.57 %
+Accuracy 85.70 %
+Best Acc 86.28 %
+[Epoch : 65,     1] train loss: 0.6599
+[Epoch : 65,    81] train loss: 0.4831
+[Epoch : 65,   161] train loss: 1.0965
+Accuracy 82.89 %
+Accuracy 85.96 %
+Best Acc 86.28 %
+[Epoch : 66,     1] train loss: 0.6568
+[Epoch : 66,    81] train loss: 0.4852
+[Epoch : 66,   161] train loss: 0.4082
+Accuracy 83.03 %
+Accuracy 85.79 %
+Best Acc 86.28 %
+[Epoch : 67,     1] train loss: 0.6141
+[Epoch : 67,    81] train loss: 0.6270
+[Epoch : 67,   161] train loss: 0.5937
+Accuracy 82.48 %
+Accuracy 85.65 %
+Best Acc 86.28 %
+[Epoch : 68,     1] train loss: 0.6003
+[Epoch : 68,    81] train loss: 0.4491
+[Epoch : 68,   161] train loss: 0.8816
+Accuracy 82.43 %
+Accuracy 85.90 %
+Best Acc 86.28 %
+[Epoch : 69,     1] train loss: 0.9149
+[Epoch : 69,    81] train loss: 0.6937
+[Epoch : 69,   161] train loss: 0.7510
+Accuracy 82.14 %
+Accuracy 85.75 %
+Best Acc 86.28 %
+[Epoch : 70,     1] train loss: 0.6782
+[Epoch : 70,    81] train loss: 0.5903
+[Epoch : 70,   161] train loss: 0.7347
+Accuracy 83.78 %
+Accuracy 85.74 %
+Best Acc 86.28 %
+[Epoch : 71,     1] train loss: 0.5053
+[Epoch : 71,    81] train loss: 0.7726
+[Epoch : 71,   161] train loss: 0.5395
+Accuracy 83.35 %
+Accuracy 85.64 %
+Best Acc 86.28 %
+[Epoch : 72,     1] train loss: 0.5494
+[Epoch : 72,    81] train loss: 0.6350
+[Epoch : 72,   161] train loss: 0.7124
+Accuracy 83.62 %
+Accuracy 85.70 %
+Best Acc 86.28 %
+[Epoch : 73,     1] train loss: 0.4862
+[Epoch : 73,    81] train loss: 0.4410
+[Epoch : 73,   161] train loss: 0.5477
+Accuracy 83.38 %
+Accuracy 85.86 %
+Best Acc 86.28 %
+[Epoch : 74,     1] train loss: 0.3962
+[Epoch : 74,    81] train loss: 0.3951
+[Epoch : 74,   161] train loss: 0.6092
+Accuracy 82.22 %
+Accuracy 85.83 %
+Best Acc 86.28 %
+[Epoch : 75,     1] train loss: 0.5041
+[Epoch : 75,    81] train loss: 0.6995
+[Epoch : 75,   161] train loss: 0.5932
+Accuracy 82.86 %
+Accuracy 85.80 %
+Best Acc 86.28 %
+[Epoch : 76,     1] train loss: 0.5615
+[Epoch : 76,    81] train loss: 0.6657
+[Epoch : 76,   161] train loss: 0.8029
+Accuracy 83.32 %
+Accuracy 85.90 %
+Best Acc 86.28 %
+[Epoch : 77,     1] train loss: 0.5434
+[Epoch : 77,    81] train loss: 0.4854
+[Epoch : 77,   161] train loss: 0.5867
+Accuracy 82.64 %
+Accuracy 86.07 %
+Best Acc 86.28 %
+[Epoch : 78,     1] train loss: 0.4515
+[Epoch : 78,    81] train loss: 0.4931
+[Epoch : 78,   161] train loss: 0.7168
+Accuracy 83.07 %
+Accuracy 86.00 %
+Best Acc 86.28 %
+[Epoch : 79,     1] train loss: 0.4383
+[Epoch : 79,    81] train loss: 0.4824
+[Epoch : 79,   161] train loss: 0.5871
+Accuracy 83.09 %
+Accuracy 85.95 %
+Best Acc 86.28 %
+[Epoch : 80,     1] train loss: 0.4133
+[Epoch : 80,    81] train loss: 0.5486
+[Epoch : 80,   161] train loss: 0.4821
+Accuracy 82.58 %
+Accuracy 85.95 %
+Best Acc 86.28 %
+[Epoch : 81,     1] train loss: 0.4522
+[Epoch : 81,    81] train loss: 0.4025
+[Epoch : 81,   161] train loss: 0.7639
+Accuracy 83.27 %
+Accuracy 85.89 %
+Best Acc 86.28 %
+[Epoch : 82,     1] train loss: 0.4794
+[Epoch : 82,    81] train loss: 0.4349
+[Epoch : 82,   161] train loss: 0.7517
+Accuracy 82.59 %
+Accuracy 85.79 %
+Best Acc 86.28 %
+[Epoch : 83,     1] train loss: 0.7438
+[Epoch : 83,    81] train loss: 0.6818
+[Epoch : 83,   161] train loss: 0.7708
+Accuracy 83.04 %
+Accuracy 85.87 %
+Best Acc 86.28 %
+[Epoch : 84,     1] train loss: 0.6210
+[Epoch : 84,    81] train loss: 0.4830
+[Epoch : 84,   161] train loss: 0.8478
+Accuracy 83.75 %
+Accuracy 85.95 %
+Best Acc 86.28 %
+[Epoch : 85,     1] train loss: 0.4910
+[Epoch : 85,    81] train loss: 0.5471
+[Epoch : 85,   161] train loss: 0.3662
+Accuracy 83.93 %
+Accuracy 86.08 %
+Best Acc 86.28 %
+[Epoch : 86,     1] train loss: 0.5000
+[Epoch : 86,    81] train loss: 0.4060
+[Epoch : 86,   161] train loss: 0.5065
+Accuracy 83.19 %
+Accuracy 86.22 %
+Best Acc 86.28 %
+[Epoch : 87,     1] train loss: 0.4524
+[Epoch : 87,    81] train loss: 0.5016
+[Epoch : 87,   161] train loss: 0.4420
+Accuracy 83.34 %
+Accuracy 86.00 %
+Best Acc 86.28 %
+[Epoch : 88,     1] train loss: 0.4278
+[Epoch : 88,    81] train loss: 0.4503
+[Epoch : 88,   161] train loss: 0.4022
+Accuracy 82.57 %
+Accuracy 85.98 %
+Best Acc 86.28 %
+[Epoch : 89,     1] train loss: 0.4809
+[Epoch : 89,    81] train loss: 0.3935
+[Epoch : 89,   161] train loss: 0.5654
+Accuracy 83.07 %
+Accuracy 85.92 %
+Best Acc 86.28 %
+[Epoch : 90,     1] train loss: 0.3643
+[Epoch : 90,    81] train loss: 0.4338
+[Epoch : 90,   161] train loss: 0.5536
+Accuracy 82.84 %
+Accuracy 85.97 %
+Best Acc 86.28 %
+[Epoch : 91,     1] train loss: 0.5076
+[Epoch : 91,    81] train loss: 0.3919
+[Epoch : 91,   161] train loss: 0.7408
+Accuracy 82.73 %
+Accuracy 85.89 %
+Best Acc 86.28 %
+[Epoch : 92,     1] train loss: 0.4567
+[Epoch : 92,    81] train loss: 0.4745
+[Epoch : 92,   161] train loss: 0.6534
+Accuracy 83.24 %
+Accuracy 85.90 %
+Best Acc 86.28 %
+[Epoch : 93,     1] train loss: 0.3076
+[Epoch : 93,    81] train loss: 0.5064
+[Epoch : 93,   161] train loss: 0.5529
+Accuracy 82.60 %
+Accuracy 85.84 %
+Best Acc 86.28 %
+[Epoch : 94,     1] train loss: 0.4135
+[Epoch : 94,    81] train loss: 0.4465
+[Epoch : 94,   161] train loss: 0.4146
+Accuracy 83.26 %
+Accuracy 85.56 %
+Best Acc 86.28 %
+[Epoch : 95,     1] train loss: 0.4764
+[Epoch : 95,    81] train loss: 0.3535
+[Epoch : 95,   161] train loss: 0.7483
+Accuracy 82.38 %
+Accuracy 85.77 %
+Best Acc 86.28 %
+[Epoch : 96,     1] train loss: 0.4987
+[Epoch : 96,    81] train loss: 0.3737
+[Epoch : 96,   161] train loss: 0.8198
+Accuracy 83.13 %
+Accuracy 85.74 %
+Best Acc 86.28 %
+[Epoch : 97,     1] train loss: 0.5285
+[Epoch : 97,    81] train loss: 0.4761
+[Epoch : 97,   161] train loss: 0.5990
+Accuracy 82.76 %
+Accuracy 85.46 %
+Best Acc 86.28 %
+[Epoch : 98,     1] train loss: 0.3446
+[Epoch : 98,    81] train loss: 0.4555
+[Epoch : 98,   161] train loss: 0.6760
+Accuracy 83.28 %
+Accuracy 85.43 %
+Best Acc 86.28 %
+[Epoch : 99,     1] train loss: 0.5400
+[Epoch : 99,    81] train loss: 0.4567
+[Epoch : 99,   161] train loss: 0.9443
+Accuracy 82.03 %
+Accuracy 85.31 %
+Best Acc 86.28 %
+[Epoch : 100,     1] train loss: 0.6112
+[Epoch : 100,    81] train loss: 0.5851
+[Epoch : 100,   161] train loss: 0.5808
+Accuracy 83.25 %
+Accuracy 85.50 %
+Best Acc 86.28 %
+[Epoch : 101,     1] train loss: 0.4638
+[Epoch : 101,    81] train loss: 0.3538
+[Epoch : 101,   161] train loss: 0.7738
+Accuracy 83.29 %
+Accuracy 85.37 %
+Best Acc 86.28 %
+[Epoch : 102,     1] train loss: 0.3649
+[Epoch : 102,    81] train loss: 0.4268
+[Epoch : 102,   161] train loss: 0.7201
+Accuracy 82.70 %
+Accuracy 85.57 %
+Best Acc 86.28 %
+[Epoch : 103,     1] train loss: 0.5714
+[Epoch : 103,    81] train loss: 0.3645
+[Epoch : 103,   161] train loss: 0.5773
+Accuracy 82.46 %
+Accuracy 85.65 %
+Best Acc 86.28 %
+[Epoch : 104,     1] train loss: 0.4241
+[Epoch : 104,    81] train loss: 0.3724
+[Epoch : 104,   161] train loss: 0.4260
+Accuracy 83.76 %
+Accuracy 85.86 %
+Best Acc 86.28 %
+[Epoch : 105,     1] train loss: 0.4597
+[Epoch : 105,    81] train loss: 0.3846
+[Epoch : 105,   161] train loss: 0.9160
+Accuracy 83.08 %
+Accuracy 85.84 %
+Best Acc 86.28 %
+[Epoch : 106,     1] train loss: 0.3510
+[Epoch : 106,    81] train loss: 0.4202
+[Epoch : 106,   161] train loss: 0.5632
+Accuracy 82.86 %
+Accuracy 85.54 %
+Best Acc 86.28 %
+[Epoch : 107,     1] train loss: 0.5984
+[Epoch : 107,    81] train loss: 0.5824
+[Epoch : 107,   161] train loss: 0.5860
+Accuracy 82.79 %
+Accuracy 85.73 %
+Best Acc 86.28 %
+[Epoch : 108,     1] train loss: 0.4344
+[Epoch : 108,    81] train loss: 0.4233
+[Epoch : 108,   161] train loss: 0.7053
+Accuracy 83.20 %
+Accuracy 85.49 %
+Best Acc 86.28 %
+[Epoch : 109,     1] train loss: 0.4314
+[Epoch : 109,    81] train loss: 0.4603
+[Epoch : 109,   161] train loss: 0.5490
+Accuracy 82.26 %
+Accuracy 85.45 %
+Best Acc 86.28 %
+[Epoch : 110,     1] train loss: 0.3134
+[Epoch : 110,    81] train loss: 0.3309
+[Epoch : 110,   161] train loss: 0.4888
+Accuracy 82.87 %
+Accuracy 85.32 %
+Best Acc 86.28 %
+[Epoch : 111,     1] train loss: 0.4337
+[Epoch : 111,    81] train loss: 0.4378
+[Epoch : 111,   161] train loss: 0.4442
+Accuracy 83.42 %
+Accuracy 85.25 %
+Best Acc 86.28 %
+[Epoch : 112,     1] train loss: 0.5016
+[Epoch : 112,    81] train loss: 0.4021
+[Epoch : 112,   161] train loss: 0.4095
+Accuracy 81.86 %
+Accuracy 85.38 %
+Best Acc 86.28 %
+[Epoch : 113,     1] train loss: 0.3760
+[Epoch : 113,    81] train loss: 0.3163
+[Epoch : 113,   161] train loss: 0.6134
+Accuracy 83.25 %
+Accuracy 85.36 %
+Best Acc 86.28 %
+[Epoch : 114,     1] train loss: 0.2689
+[Epoch : 114,    81] train loss: 0.3901
+[Epoch : 114,   161] train loss: 0.5611
+Accuracy 82.60 %
+Accuracy 85.34 %
+Best Acc 86.28 %
+[Epoch : 115,     1] train loss: 0.4181
+[Epoch : 115,    81] train loss: 0.3828
+[Epoch : 115,   161] train loss: 0.7525
+Accuracy 82.69 %
+Accuracy 85.54 %
+Best Acc 86.28 %
+[Epoch : 116,     1] train loss: 0.4300
+[Epoch : 116,    81] train loss: 0.3427
+[Epoch : 116,   161] train loss: 0.5905
+Accuracy 82.93 %
+Accuracy 85.26 %
+Best Acc 86.28 %
+[Epoch : 117,     1] train loss: 0.3592
+[Epoch : 117,    81] train loss: 0.2365
+[Epoch : 117,   161] train loss: 0.7271
+Accuracy 83.36 %
+Accuracy 85.38 %
+Best Acc 86.28 %
+[Epoch : 118,     1] train loss: 0.4452
+[Epoch : 118,    81] train loss: 0.3185
+[Epoch : 118,   161] train loss: 0.5055
+Accuracy 82.76 %
+Accuracy 85.48 %
+Best Acc 86.28 %
+[Epoch : 119,     1] train loss: 0.3660
+[Epoch : 119,    81] train loss: 0.3291
+[Epoch : 119,   161] train loss: 0.7908
+Accuracy 82.65 %
+Accuracy 85.25 %
+Best Acc 86.28 %
+[Epoch : 120,     1] train loss: 0.3351
+[Epoch : 120,    81] train loss: 0.2751
+[Epoch : 120,   161] train loss: 0.7308
+Accuracy 82.21 %
+Accuracy 85.38 %
+Best Acc 86.28 %
+[Epoch : 121,     1] train loss: 0.3543
+[Epoch : 121,    81] train loss: 0.3612
+[Epoch : 121,   161] train loss: 0.4387
+Accuracy 83.69 %
+Accuracy 85.32 %
+Best Acc 86.28 %
+[Epoch : 122,     1] train loss: 0.3407
+[Epoch : 122,    81] train loss: 0.4148
+[Epoch : 122,   161] train loss: 0.2872
+Accuracy 83.89 %
+Accuracy 85.32 %
+Best Acc 86.28 %
+[Epoch : 123,     1] train loss: 0.3220
+[Epoch : 123,    81] train loss: 0.2609
+[Epoch : 123,   161] train loss: 0.5112
+Accuracy 84.31 %
+Accuracy 85.32 %
+Best Acc 86.28 %
+[Epoch : 124,     1] train loss: 0.2635
+[Epoch : 124,    81] train loss: 0.3109
+[Epoch : 124,   161] train loss: 0.4723
+Accuracy 84.31 %
+Accuracy 85.20 %
+Best Acc 86.28 %
+[Epoch : 125,     1] train loss: 0.2302
+[Epoch : 125,    81] train loss: 0.2484
+[Epoch : 125,   161] train loss: 0.4152
+Accuracy 84.32 %
+Accuracy 85.24 %
+Best Acc 86.28 %
+[Epoch : 126,     1] train loss: 0.2420
+[Epoch : 126,    81] train loss: 0.2996
+[Epoch : 126,   161] train loss: 0.4402
+Accuracy 84.52 %
+Accuracy 84.97 %
+Best Acc 86.28 %
+[Epoch : 127,     1] train loss: 0.3032
+[Epoch : 127,    81] train loss: 0.2781
+[Epoch : 127,   161] train loss: 0.3013
+Accuracy 84.22 %
+Accuracy 84.92 %
+Best Acc 86.28 %
+[Epoch : 128,     1] train loss: 0.3217
+[Epoch : 128,    81] train loss: 0.2770
+[Epoch : 128,   161] train loss: 0.3656
+Accuracy 84.38 %
+Accuracy 84.99 %
+Best Acc 86.28 %
+[Epoch : 129,     1] train loss: 0.2557
+[Epoch : 129,    81] train loss: 0.2911
+[Epoch : 129,   161] train loss: 0.5108
+Accuracy 84.19 %
+Accuracy 84.95 %
+Best Acc 86.28 %
+[Epoch : 130,     1] train loss: 0.3483
+[Epoch : 130,    81] train loss: 0.2770
+[Epoch : 130,   161] train loss: 0.3729
+Accuracy 84.19 %
+Accuracy 84.87 %
+Best Acc 86.28 %
+[Epoch : 131,     1] train loss: 0.3244
+[Epoch : 131,    81] train loss: 0.3431
+[Epoch : 131,   161] train loss: 1.1472
+Accuracy 84.33 %
+Accuracy 84.65 %
+Best Acc 86.28 %
+[Epoch : 132,     1] train loss: 0.1756
+[Epoch : 132,    81] train loss: 0.2267
+[Epoch : 132,   161] train loss: 0.4382
+Accuracy 84.17 %
+Accuracy 84.78 %
+Best Acc 86.28 %
+[Epoch : 133,     1] train loss: 0.2941
+[Epoch : 133,    81] train loss: 0.1752
+[Epoch : 133,   161] train loss: 0.1536
+Accuracy 84.10 %
+Accuracy 84.58 %
+Best Acc 86.28 %
+[Epoch : 134,     1] train loss: 0.3115
+[Epoch : 134,    81] train loss: 0.2406
+[Epoch : 134,   161] train loss: 0.5190
+Accuracy 84.36 %
+Accuracy 84.54 %
+Best Acc 86.28 %
+[Epoch : 135,     1] train loss: 0.2452
+[Epoch : 135,    81] train loss: 0.1895
+[Epoch : 135,   161] train loss: 0.4320
+Accuracy 84.51 %
+Accuracy 84.65 %
+Best Acc 86.28 %
+[Epoch : 136,     1] train loss: 0.1524
+[Epoch : 136,    81] train loss: 0.2505
+[Epoch : 136,   161] train loss: 0.5050
+Accuracy 84.44 %
+Accuracy 84.39 %
+Best Acc 86.28 %
+[Epoch : 137,     1] train loss: 0.2532
+[Epoch : 137,    81] train loss: 0.2307
+[Epoch : 137,   161] train loss: 0.2484
+Accuracy 84.32 %
+Accuracy 84.46 %
+Best Acc 86.28 %
+[Epoch : 138,     1] train loss: 0.2366
+[Epoch : 138,    81] train loss: 0.2169
+[Epoch : 138,   161] train loss: 0.4108
+Accuracy 84.26 %
+Accuracy 84.50 %
+Best Acc 86.28 %
+[Epoch : 139,     1] train loss: 0.1600
+[Epoch : 139,    81] train loss: 0.2667
+[Epoch : 139,   161] train loss: 0.3458
+Accuracy 84.44 %
+Accuracy 84.40 %
+Best Acc 86.28 %
+[Epoch : 140,     1] train loss: 0.1941
+[Epoch : 140,    81] train loss: 0.3064
+[Epoch : 140,   161] train loss: 0.2443
+Accuracy 84.71 %
+Accuracy 84.57 %
+Best Acc 86.28 %
+[Epoch : 141,     1] train loss: 0.1711
+[Epoch : 141,    81] train loss: 0.3243
+[Epoch : 141,   161] train loss: 0.3590
+Accuracy 84.03 %
+Accuracy 84.39 %
+Best Acc 86.28 %
+[Epoch : 142,     1] train loss: 0.2359
+[Epoch : 142,    81] train loss: 0.3050
+[Epoch : 142,   161] train loss: 0.4525
+Accuracy 84.11 %
+Accuracy 84.40 %
+Best Acc 86.28 %
+[Epoch : 143,     1] train loss: 0.2092
+[Epoch : 143,    81] train loss: 0.1670
+[Epoch : 143,   161] train loss: 0.3372
+Accuracy 84.35 %
+Accuracy 84.58 %
+Best Acc 86.28 %
+[Epoch : 144,     1] train loss: 0.2514
+[Epoch : 144,    81] train loss: 0.2711
+[Epoch : 144,   161] train loss: 0.1955
+Accuracy 84.12 %
+Accuracy 84.53 %
+Best Acc 86.28 %
+[Epoch : 145,     1] train loss: 0.1283
+[Epoch : 145,    81] train loss: 0.1763
+[Epoch : 145,   161] train loss: 0.2616
+Accuracy 84.35 %
+Accuracy 84.57 %
+Best Acc 86.28 %
+[Epoch : 146,     1] train loss: 0.2077
+[Epoch : 146,    81] train loss: 0.1960
+[Epoch : 146,   161] train loss: 0.2702
+Accuracy 84.53 %
+Accuracy 84.62 %
+Best Acc 86.28 %
+[Epoch : 147,     1] train loss: 0.2508
+[Epoch : 147,    81] train loss: 0.1498
+[Epoch : 147,   161] train loss: 0.2982
+Accuracy 84.49 %
+Accuracy 84.53 %
+Best Acc 86.28 %
+[Epoch : 148,     1] train loss: 0.1640
+[Epoch : 148,    81] train loss: 0.1416
+[Epoch : 148,   161] train loss: 0.2889
+Accuracy 84.35 %
+Accuracy 84.52 %
+Best Acc 86.28 %
+[Epoch : 149,     1] train loss: 0.2149
+[Epoch : 149,    81] train loss: 0.2158
+[Epoch : 149,   161] train loss: 0.4628
+Accuracy 84.48 %
+Accuracy 84.60 %
+Best Acc 86.28 %
+[Epoch : 150,     1] train loss: 0.1585
+[Epoch : 150,    81] train loss: 0.1771
+[Epoch : 150,   161] train loss: 0.3301
+Accuracy 84.43 %
+Accuracy 84.27 %
+Best Acc 86.28 %
+[Epoch : 151,     1] train loss: 0.1732
+[Epoch : 151,    81] train loss: 0.1973
+[Epoch : 151,   161] train loss: 0.2400
+Accuracy 84.64 %
+Accuracy 84.67 %
+Best Acc 86.28 %
+[Epoch : 152,     1] train loss: 0.2427
+[Epoch : 152,    81] train loss: 0.3057
+[Epoch : 152,   161] train loss: 0.4507
+Accuracy 84.38 %
+Accuracy 84.60 %
+Best Acc 86.28 %
+[Epoch : 153,     1] train loss: 0.1687
+[Epoch : 153,    81] train loss: 0.2888
+[Epoch : 153,   161] train loss: 0.5646
+Accuracy 84.58 %
+Accuracy 84.77 %
+Best Acc 86.28 %
+[Epoch : 154,     1] train loss: 0.1794
+[Epoch : 154,    81] train loss: 0.1232
+[Epoch : 154,   161] train loss: 0.4170
+Accuracy 84.26 %
+Accuracy 84.55 %
+Best Acc 86.28 %
+[Epoch : 155,     1] train loss: 0.1873
+[Epoch : 155,    81] train loss: 0.1456
+[Epoch : 155,   161] train loss: 0.3757
+Accuracy 84.53 %
+Accuracy 84.49 %
+Best Acc 86.28 %
+[Epoch : 156,     1] train loss: 0.2219
+[Epoch : 156,    81] train loss: 0.1453
+[Epoch : 156,   161] train loss: 0.3021
+Accuracy 84.38 %
+Accuracy 84.49 %
+Best Acc 86.28 %
+[Epoch : 157,     1] train loss: 0.1818
+[Epoch : 157,    81] train loss: 0.1586
+[Epoch : 157,   161] train loss: 0.2823
+Accuracy 84.48 %
+Accuracy 84.65 %
+Best Acc 86.28 %
+[Epoch : 158,     1] train loss: 0.1827
+[Epoch : 158,    81] train loss: 0.1716
+[Epoch : 158,   161] train loss: 0.3205
+Accuracy 84.56 %
+Accuracy 84.49 %
+Best Acc 86.28 %
+[Epoch : 159,     1] train loss: 0.2014
+[Epoch : 159,    81] train loss: 0.1472
+[Epoch : 159,   161] train loss: 0.4088
+Accuracy 84.63 %
+Accuracy 84.60 %
+Best Acc 86.28 %
+[Epoch : 160,     1] train loss: 0.1811
+[Epoch : 160,    81] train loss: 0.1711
+[Epoch : 160,   161] train loss: 0.2639
+Accuracy 84.51 %
+Accuracy 84.62 %
+Best Acc 86.28 %
+[Epoch : 161,     1] train loss: 0.1832
+[Epoch : 161,    81] train loss: 0.1993
+[Epoch : 161,   161] train loss: 0.3108
+Accuracy 84.74 %
+Accuracy 84.63 %
+Best Acc 86.28 %
+[Epoch : 162,     1] train loss: 0.1427
+[Epoch : 162,    81] train loss: 0.1462
+[Epoch : 162,   161] train loss: 0.4402
+Accuracy 84.42 %
+Accuracy 84.51 %
+Best Acc 86.28 %
+[Epoch : 163,     1] train loss: 0.2503
+[Epoch : 163,    81] train loss: 0.1186
+[Epoch : 163,   161] train loss: 0.5259
+Accuracy 84.50 %
+Accuracy 84.64 %
+Best Acc 86.28 %
+[Epoch : 164,     1] train loss: 0.1595
+[Epoch : 164,    81] train loss: 0.1478
+[Epoch : 164,   161] train loss: 0.3620
+Accuracy 84.49 %
+Accuracy 84.63 %
+Best Acc 86.28 %
+[Epoch : 165,     1] train loss: 0.1327
+[Epoch : 165,    81] train loss: 0.3227
+[Epoch : 165,   161] train loss: 0.2965
+Accuracy 84.57 %
+Accuracy 84.54 %
+Best Acc 86.28 %
+[Epoch : 166,     1] train loss: 0.2695
+[Epoch : 166,    81] train loss: 0.1701
+[Epoch : 166,   161] train loss: 0.1646
+Accuracy 84.68 %
+Accuracy 84.73 %
+Best Acc 86.28 %
+[Epoch : 167,     1] train loss: 0.1393
+[Epoch : 167,    81] train loss: 0.1105
+[Epoch : 167,   161] train loss: 0.4049
+Accuracy 84.44 %
+Accuracy 84.55 %
+Best Acc 86.28 %
+[Epoch : 168,     1] train loss: 0.1452
+[Epoch : 168,    81] train loss: 0.1185
+[Epoch : 168,   161] train loss: 0.3018
+Accuracy 84.61 %
+Accuracy 84.58 %
+Best Acc 86.28 %
+[Epoch : 169,     1] train loss: 0.1516
+[Epoch : 169,    81] train loss: 0.1858
+[Epoch : 169,   161] train loss: 0.2695
+Accuracy 84.67 %
+Accuracy 84.57 %
+Best Acc 86.28 %
+[Epoch : 170,     1] train loss: 0.1123
+[Epoch : 170,    81] train loss: 0.1327
+[Epoch : 170,   161] train loss: 0.4666
+Accuracy 84.61 %
+Accuracy 84.75 %
+Best Acc 86.28 %
+[Epoch : 171,     1] train loss: 0.1264
+[Epoch : 171,    81] train loss: 0.1866
+[Epoch : 171,   161] train loss: 0.5543
+Accuracy 84.53 %
+Accuracy 84.65 %
+Best Acc 86.28 %
+[Epoch : 172,     1] train loss: 0.1555
+[Epoch : 172,    81] train loss: 0.2014
+[Epoch : 172,   161] train loss: 0.3613
+Accuracy 84.57 %
+Accuracy 84.62 %
+Best Acc 86.28 %
+[Epoch : 173,     1] train loss: 0.1806
+[Epoch : 173,    81] train loss: 0.1396
+[Epoch : 173,   161] train loss: 0.2961
+Accuracy 84.75 %
+Accuracy 84.71 %
+Best Acc 86.28 %
+[Epoch : 174,     1] train loss: 0.1488
+[Epoch : 174,    81] train loss: 0.1810
+[Epoch : 174,   161] train loss: 0.7415
+Accuracy 84.45 %
+Accuracy 84.58 %
+Best Acc 86.28 %
+[Epoch : 175,     1] train loss: 0.1782
+[Epoch : 175,    81] train loss: 0.1957
+[Epoch : 175,   161] train loss: 0.2056
+Accuracy 84.71 %
+Accuracy 84.65 %
+Best Acc 86.28 %
+[Epoch : 176,     1] train loss: 0.1501
+[Epoch : 176,    81] train loss: 0.1148
+[Epoch : 176,   161] train loss: 0.2627
+Accuracy 84.46 %
+Accuracy 84.55 %
+Best Acc 86.28 %
+[Epoch : 177,     1] train loss: 0.1545
+[Epoch : 177,    81] train loss: 0.1482
+[Epoch : 177,   161] train loss: 0.3994
+Accuracy 84.76 %
+Accuracy 84.81 %
+Best Acc 86.28 %
+[Epoch : 178,     1] train loss: 0.1898
+[Epoch : 178,    81] train loss: 0.1646
+[Epoch : 178,   161] train loss: 0.2182
+Accuracy 84.55 %
+Accuracy 84.56 %
+Best Acc 86.28 %
+[Epoch : 179,     1] train loss: 0.1249
+[Epoch : 179,    81] train loss: 0.2106
+[Epoch : 179,   161] train loss: 0.2711
+Accuracy 84.63 %
+Accuracy 84.63 %
+Best Acc 86.28 %
+[Epoch : 180,     1] train loss: 0.1717
+[Epoch : 180,    81] train loss: 0.1087
+[Epoch : 180,   161] train loss: 0.2509
+Accuracy 84.68 %
+Accuracy 84.66 %
+Best Acc 86.28 %
