@@ -9,6 +9,10 @@ python3 cifar.py --nce-k 0 --nce-t 0.1 --lr 0.03
 This python project is based on the paper
 ["Unsupervised feature learning via non-parametric instance-level discrimination."](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0801.pdf)
 
+# **Pre-trained Model**
+you can download the pre-trained model in ["here"]
+(https://drive.google.com/drive/folders/1FoEO1IuxjIEiTet2k7DbaLq8VNh8Jdw3?usp=sharing)
+
 # **Abstract**
 Neural net classifiers trained on data with annotated class labels can also capture apparent 
 visual similarity among categories without being directed to do so. We study whether this 
